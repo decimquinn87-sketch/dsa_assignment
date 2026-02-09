@@ -5,7 +5,7 @@ Function Descriptions
 The push function increments top and adds a character to the array. The pop function returns the character at top and then decrements the index to remove it.
 
 Main Method Organization
-The main method reads a string and iterates through it with a for loop. Opening brackets are passed to push(), and closing brackets trigger pop(). A final check on the top variable determines if the expression is balanced.
+The main method reads a string and runs through it with a for loop. Opening brackets are passed to push(), and closing brackets trigger pop(). A final check on the top variable determines if the expression is balanced.
 
 Sample Output
 Enter the input expression: (())
